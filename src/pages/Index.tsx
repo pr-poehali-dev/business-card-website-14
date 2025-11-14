@@ -24,7 +24,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Icon name="Calculator" className="text-primary" size={32} />
-            <span className="text-xl font-bold text-secondary">Группа компаний ООО "БИЗНЕС ТРЕЙДИНГ"</span>
+            <span className="text-xl font-bold text-secondary">Группа компаний "Бизнес Решения +"</span>
           </div>
           <nav className="hidden md:flex gap-8">
             <a href="#home" className="text-foreground hover:text-primary transition-colors">
@@ -141,8 +141,16 @@ const Index = () => {
                 О компании
               </h2>
               <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-                Группа компаний ООО "БИЗНЕС ТРЕЙДИНГ" — профессиональная компания по обслуживанию кассовой техники с многолетним опытом работы. Мы помогаем бизнесу соблюдать требования законодательства и обеспечиваем бесперебойную работу кассового оборудования.
+                Группа компаний "Бизнес Решения +" — профессиональная компания по обслуживанию кассовой техники с многолетним опытом работы. Мы помогаем бизнесу соблюдать требования законодательства и обеспечиваем бесперебойную работу кассового оборудования.
               </p>
+              <div className="bg-muted/50 p-4 rounded-lg mb-6">
+                <h4 className="font-semibold text-lg mb-3 text-secondary">Компании в составе группы:</h4>
+                <div className="space-y-2 text-sm text-muted-foreground">
+                  <p><strong>ООО "Бизнес Трейдинг"</strong><br/>ОГРН 1167847188530, ИНН 7806233444</p>
+                  <p><strong>ООО "Фарн"</strong><br/>ОГРН 1217800084699, ИНН 7814791869</p>
+                  <p><strong>ООО "Фарн Северо-Запад"</strong><br/>ОГРН 1257800092659, ИНН 7813691100</p>
+                </div>
+              </div>
               <div className="space-y-4">
                 <div className="flex items-start gap-4">
                   <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
@@ -347,7 +355,7 @@ const Index = () => {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Icon name="Calculator" size={28} />
-                <span className="text-xl font-bold">Группа компаний ООО "БИЗНЕС ТРЕЙДИНГ"</span>
+                <span className="text-xl font-bold">Группа компаний "Бизнес Решения +"</span>
               </div>
               <p className="text-white/80">
                 Профессиональное обслуживание кассовой техники
@@ -383,7 +391,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-white/20 pt-8 text-center text-white/60">
-            <p>&copy; 2024 Группа компаний ООО "БИЗНЕС ТРЕЙДИНГ". Все права защищены.</p>
+            <p>&copy; 2024 Группа компаний "Бизнес Решения +". Все права защищены.</p>
           </div>
         </div>
       </footer>
