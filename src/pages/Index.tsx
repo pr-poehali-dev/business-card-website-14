@@ -196,7 +196,7 @@ const Index = () => {
                   <p className="text-muted-foreground">Довольных клиентов</p>
                 </Card>
                 <Card className="text-center p-6">
-                  <div className="text-4xl font-bold text-accent mb-2">7 лет</div>
+                  <div className="text-4xl font-bold text-accent mb-2">9 лет</div>
                   <p className="text-muted-foreground">На рынке</p>
                 </Card>
                 <Card className="text-center p-6">
