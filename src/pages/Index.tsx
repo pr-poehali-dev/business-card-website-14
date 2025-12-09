@@ -354,7 +354,7 @@ const Index = () => {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Icon name="Calculator" size={28} />
-                <span className="text-xl font-bold">Группа компаний "Бизнес Решения +"</span>
+                <span className="text-xl font-bold">Группа компаний "Капитал Сервис"</span>
               </div>
               <p className="text-white/80">
                 Профессиональное обслуживание кассовой техники
