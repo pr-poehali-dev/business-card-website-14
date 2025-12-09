@@ -383,14 +383,14 @@ const Index = () => {
             <div>
               <h4 className="font-semibold text-lg mb-4">Контакты</h4>
               <ul className="space-y-2 text-white/80">
-                <li>+7 (495) 123-45-67</li>
-                <li>info@biztrade.ru</li>
-                <li>г. Москва, ул. Примерная, 123</li>
+                <li>+7 (969) 202-03-63</li>
+                <li>biztrade178@gmail.com</li>
+                <li>г. Санкт-Петербург, ул. Даниила Хармса, дом 3, К. 1 литера А, пом. 11-Н</li>
               </ul>
             </div>
           </div>
           <div className="border-t border-white/20 pt-8 text-center text-white/60">
-            <p>&copy; 2024 Группа компаний "Бизнес Решения +". Все права защищены.</p>
+            <p>&copy; 2024 Группа компаний "Капитал Сервис". Все права защищены.</p>
           </div>
         </div>
       </footer>
