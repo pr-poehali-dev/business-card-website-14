@@ -24,7 +24,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Icon name="Calculator" className="text-primary" size={32} />
-            <span className="text-xl font-bold text-secondary">Группа компаний "Бизнес Решения +"</span>
+            <span className="text-xl font-bold text-secondary">Группа компаний "Капитал Сервис"</span>
           </div>
           <nav className="hidden md:flex gap-8">
             <a href="#home" className="text-foreground hover:text-primary transition-colors">
